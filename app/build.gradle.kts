@@ -132,6 +132,7 @@ dependencies {
     implementation(libs.protoc)
     implementation(libs.slice.core)
     implementation(libs.androidx.annotation)
+    implementation(libs.androidx.startup.runtime)
 
     implementation(project(":IconLoader"))
     implementation(project(":AnimationLib"))
